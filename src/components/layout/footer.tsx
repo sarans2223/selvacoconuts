@@ -51,8 +51,19 @@ export function Footer() {
             <h3 className="font-semibold mb-4">Contact Us</h3>
             <address className="text-sm not-italic text-muted-foreground space-y-2">
               <p>SELVA ADHITIYA COIRS AND PITH BLOCKS</p>
-              <p>123 Agri Industrial Park,</p>
-              <p>Coimbatore, Tamil Nadu, 641001</p>
+              <p>S.F.No.: 63/7, Therkkuthottam,</p>
+              <p>Kuppampalayam, Sankaramanallur,</p>
+              <p>MADATHUKULAM - 642 204.</p>
+              <p>GSTIN: 33BCAPT9142F1ZN</p>
+              <p>
+                Phone:{" "}
+                <a
+                  href="tel:+919626946238"
+                  className="hover:text-primary transition-colors"
+                >
+                  +91 96269 46238
+                </a>
+              </p>
               <p>
                 Email:{" "}
                 <a
