@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Our Products | Selva AgriExports",
-    description: "Explore our premium range of Coir Pith (Cocopeat) and Coir Fibre (Thanga Naaru) products, including blocks, grow bags, and bales.",
+    description: "Explore our premium range of Coir Pith (Cocopeat) and Coir Fibre (Thenga Naaru) products, including blocks, grow bags, and bales.",
 };
 
 export default function ProductsPage() {

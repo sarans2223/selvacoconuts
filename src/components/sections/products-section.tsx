@@ -52,7 +52,7 @@ export function ProductsSection() {
         <Tabs defaultValue="pith" className="mt-12 w-full">
           <TabsList className="grid w-full max-w-md mx-auto grid-cols-2">
             <TabsTrigger value="pith">Coir Pith (Cocopeat)</TabsTrigger>
-            <TabsTrigger value="fibre">Coir Fibre (Thanga Naaru)</TabsTrigger>
+            <TabsTrigger value="fibre">Coir Fibre (Thenga Naaru)</TabsTrigger>
           </TabsList>
           <TabsContent value="pith" className="mt-8">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">

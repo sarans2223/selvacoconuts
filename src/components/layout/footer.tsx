@@ -27,7 +27,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-sm text-muted-foreground">
-              Premium Thanga Naaru & Coir Solutions for a Greener Planet.
+              Premium Thenga Naaru & Coir Solutions for a Greener Planet.
             </p>
           </div>
 

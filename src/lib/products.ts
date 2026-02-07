@@ -24,7 +24,7 @@ export const products: Product[] = [
   {
     id: 'fibre-bale',
     name: 'Coir Fibre Bales',
-    description: 'High-quality "Thanga Naaru" (Golden Fibre) compressed into 120kg bales. Used for upholstery, erosion control, and mattresses.',
+    description: 'High-quality "Thenga Naaru" (Golden Fibre) compressed into 120kg bales. Used for upholstery, erosion control, and mattresses.',
     category: 'Coir Fibre',
     imageId: 'product-fibre-bale',
   },

@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
   title: 'Selva AgriExports',
-  description: 'Sustainable Agri-Exports: Premium Thanga Naaru & Coir Solutions for a Greener Planet.',
+  description: 'Sustainable Agri-Exports: Premium Thenga Naaru & Coir Solutions for a Greener Planet.',
 };
 
 export default function RootLayout({

@@ -21,7 +21,7 @@ export function HeroSection() {
       <div className="absolute inset-0 bg-black/50" />
       <div className="relative z-10 text-center px-4 max-w-4xl">
         <h1 className="font-headline text-4xl md:text-6xl lg:text-7xl font-bold leading-tight tracking-tight text-shadow">
-          Sustainable Agri-Exports: Premium Thanga Naaru & Coir Solutions
+          Sustainable Agri-Exports: Premium Thenga Naaru & Coir Solutions
         </h1>
         <p className="mt-4 text-lg md:text-xl max-w-2xl mx-auto text-shadow">
           Empowering a greener planet with 100% natural, biodegradable coir products straight from the source.
