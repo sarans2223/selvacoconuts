@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-plantation",
+      "description": "A vast coconut plantation under a clear blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1769679789360-3310cf904b96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2NvbnV0JTIwcGxhbnRhdGlvbnxlbnwwfHx8fDE3NzA0NzM2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coconut plantation"
+    },
+    {
+      "id": "product-pith-block",
+      "description": "A compressed block of coir pith.",
+      "imageUrl": "https://picsum.photos/seed/102/600/400",
+      "imageHint": "coir block"
+    },
+    {
+      "id": "product-pith-bag",
+      "description": "A coir pith grow bag ready for planting.",
+      "imageUrl": "https://images.unsplash.com/photo-1700160282273-366ce7325ea5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncm93JTIwYmFnfGVufDB8fHx8MTc3MDQ3MzYzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grow bag"
+    },
+    {
+      "id": "product-fibre-bale",
+      "description": "A large bale of compressed coir fibre.",
+      "imageUrl": "https://picsum.photos/seed/104/600/400",
+      "imageHint": "coir bale"
+    },
+    {
+      "id": "product-fibre-raw",
+      "description": "Loose golden-brown coir fibre.",
+      "imageUrl": "https://images.unsplash.com/photo-1664865993788-f116220c42ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2lyJTIwZmlicmV8ZW58MHx8fHwxNzcwNDczNjMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coir fibre"
+    },
+    {
+      "id": "about-factory",
+      "description": "The interior of a modern coir processing factory.",
+      "imageUrl": "https://images.unsplash.com/photo-1699221956369-a9e59138ca97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmYWN0b3J5JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzcwNDU0NjAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "factory interior"
+    },
+    {
+      "id": "sustainability-factory",
+      "description": "An eco-friendly factory surrounded by greenery.",
+      "imageUrl": "https://images.unsplash.com/photo-1559038297-5b37efcd59d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxncmVlbiUyMGZhY3Rvcnl8ZW58MHx8fHwxNzcwNDczNjMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green factory"
+    },
+    {
+      "id": "global-reach",
+      "description": "A stylized map of the world showing global connections.",
+      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b3JsZCUyMG1hcHxlbnwwfHx8fDE3NzA0NjI2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "world map"
+    }
+  ]
 }
